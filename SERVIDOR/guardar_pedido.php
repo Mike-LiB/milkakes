@@ -46,7 +46,7 @@
     $cantidad=$_POST["cantidad"];
     $total=$_POST["total"];
     echo "$id_mesa $nombre_cliente $id_producto $cantidad $total";
-    
+
   
   
     $id_orden;
